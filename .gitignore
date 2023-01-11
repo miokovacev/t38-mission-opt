@@ -33,6 +33,9 @@ MANIFEST
 
 # Installer logs
 pip-log.txt
+*.characterrun
+.setspeed50
+#.holdLFTshift
 pip-delete-this-directory.txt
 
 # Unit test / coverage reports
